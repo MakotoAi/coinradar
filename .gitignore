@@ -4,9 +4,9 @@ __pycache__
 \env
 \.env
 *.bak.html
-#static/uploads/*.png
-#static/uploads/*.jpg
-#static/uploads/*.jpeg
-#static/uploads/*.gif
+# static/uploads/*.png
+# static/uploads/*.jpg
+# static/uploads/*.jpeg
+# static/uploads/*.gif
 \.vscode
 .gitignore
